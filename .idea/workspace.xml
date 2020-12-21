@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce47218c-cac7-40c1-bfc0-b6675740a878" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjeyu3Crd6Odi65obcjIPyrv6O" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QuincScenario" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="ts.external.directory.path" value="C:\Users\ediscovery\WebstormProjects\QuincTask\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ediscovery\WebstormProjects\QuincScenario" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce47218c-cac7-40c1-bfc0-b6675740a878" name="Default Changelist" comment="" />
+      <created>1606218690100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606218690100</updated>
+      <workItem from="1606218692136" duration="9253000" />
+      <workItem from="1606239963979" duration="8136000" />
+      <workItem from="1606283823872" duration="18720000" />
+      <workItem from="1606311871439" duration="2054000" />
+      <workItem from="1606314135973" duration="2626000" />
+      <workItem from="1606372133698" duration="22642000" />
+      <workItem from="1606455633627" duration="15068000" />
+      <workItem from="1606800746270" duration="900000" />
+      <workItem from="1606820923551" duration="7434000" />
+      <workItem from="1606888404884" duration="15447000" />
+      <workItem from="1606975756290" duration="11690000" />
+      <workItem from="1607060330141" duration="16387000" />
+      <workItem from="1607319424262" duration="12373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1606313538224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1606313538224" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606237662385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606237662385" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606378157081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606378157081" />
+    <state x="432" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606380153701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="432" y="312" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606380153701" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1606311816213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606311816213" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1606311816212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606311816212" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1606311816211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606311816211" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1606311816212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606311816212" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606316182558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606316182558" />
+  </component>
+</project>
